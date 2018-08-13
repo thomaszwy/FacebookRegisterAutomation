@@ -1,0 +1,13 @@
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\chromedriver.exe
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\FacebookRegister.dll
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\FacebookRegister.pdb
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\nunit.framework.dll
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\WebDriver.dll
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\nunit.framework.pdb
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\nunit.framework.xml
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\bin\Debug\WebDriver.xml
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\obj\Debug\FacebookRegister.csprojAssemblyReference.cache
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\obj\Debug\FacebookRegister.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\obj\Debug\FacebookRegister.csproj.CopyComplete
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\obj\Debug\FacebookRegister.dll
+C:\Users\thoma\source\repos\FacebookRegister\FacebookRegister\obj\Debug\FacebookRegister.pdb
